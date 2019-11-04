@@ -60,7 +60,7 @@
 | Draft           | Rancangan         |
 | Drive           | Penggerak         |
 | Drop            | Jatuh           |
-| Dropdown          | Dropdown          |
+| Dropdown          | Tarik-turun          |
 | Dummy           | Tiruan          |
 
 [&larr; Kembali](../)
