@@ -36,6 +36,7 @@
 | Forward 			| Depan 			|
 | Forward chaining 	| Perantaian maju 	|
 | Frame 			| Bingkai 			|
+| Framework       | Kerangka kerja        |
 | Frontend 			| Ujung depan; situs |
 | Front Page 		| Halaman Depan 	|
 | Fullscreen 		| Layar penuh 		|
