@@ -35,7 +35,7 @@
 | Break | Putus; Pisah |
 | Broadcast | Siar |
 | Browse | Jelajah; Ramban |
-| Browser(s) | |
+| Browser(s) | Peramban |
 | Bundled | Dipaketkan; Dibundel |
 | Buffer | Penyangga |
 | Bug(s) | Kutu |
